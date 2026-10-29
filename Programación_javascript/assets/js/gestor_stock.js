@@ -18,3 +18,5 @@ function crearGestorStock (stockInicial){
 
     console.log (unidades(40));
     console.log (unidades(70));
+
+    
